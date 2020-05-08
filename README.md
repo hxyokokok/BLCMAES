@@ -2,7 +2,8 @@
 
 This is the code to reproduce the experimental results in:
 
-[1]X. He, Y. Zhou, and Z. Chen, “Evolutionary Bilevel Optimization based on Covariance Matrix Adaptation,” *IEEE Transactions on Evolutionary Computation*, pp. 1–1, 2018.
+[1]He X, Zhou Y, Chen Z. Evolutionary Bilevel Optimization based on Covariance Matrix Adaptation. IEEE Transactions on Evolutionary Computation, 2019, 23(2): 258–272.
+
 
 ## File structure
 
