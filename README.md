@@ -1,4 +1,4 @@
-#Evolutionary Bilevel Optimization based on Covariance Matrix Adaptation
+# Evolutionary Bilevel Optimization based on Covariance Matrix Adaptation
 
 This is the code to reproduce the experimental results in:
 
@@ -19,7 +19,7 @@ In total, three files are contained in the root directory:
 
 
 
-### Create an test instance
+### Create a test instance
 
 The first thing you need to know is to get a well-defined test instance.
 
